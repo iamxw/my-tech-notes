@@ -1,2 +1,2 @@
-# my-tech-notes
-My Tech Notes
+# My Tech Notes
+
